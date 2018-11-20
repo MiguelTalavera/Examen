@@ -1,0 +1,74 @@
+#uno{
+    background-color: aqua;
+}
+#uno:hover{
+   background-color: cornflowerblue;
+}
+
+#dos{
+    background-color: aqua;
+}
+#dos:hover{
+   background-color: cornflowerblue;
+}
+
+#tres{
+       background-color: aqua;
+}
+#tres:hover{
+    background-color: cornflowerblue;
+}
+
+#cuatro{
+      background-color: aqua;
+}
+#cuatro:hover{
+    background-color: cornflowerblue;
+}
+
+#linea{
+    color:blue;
+}
+
+header{
+   position: absolute;
+    left: 40%;
+}
+#pantalla{
+    position: absolute;
+    left: 25%;
+    
+}
+
+#footer{
+    background-color: aqua;
+    text-align: center;
+    color:cornflowerblue;
+}
+
+#descripcion{
+    color: blue;
+    text-align: center;
+   
+}
+
+#helpdesk{
+    position: absolute;
+    left: 90%;
+    color: dodgerblue;
+    
+}
+
+#mapa{
+    position: absolute;
+    left:30%;
+}
+#PerfilProfesional{
+    position: absolute;
+    left:3%;
+}
+
+#cafe{
+    
+    left: 30%;
+}
