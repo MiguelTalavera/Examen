@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="IndexCSS.css">
+</head>
+<body>
+   
+   <a href="Index.html"><img src="marca.png" alt="logotipo" a href="Index.html"></a>
+    <br>
+    <div>
+
+    <header>
+    
+    <a id="uno" href="Index.html">Nosotros</a>
+    <a id="dos" href="DondeEstamos.html">Donde estamos</a>
+    <a id="tres" href="Portfolio.html">Portfolio</a>
+    <a id="cuatro" href="RedesSociales.html">Redes sociales</a>
+    </header>
+    
+    </div>
+    <br>
+    <hr>
+    
+    <pre id="descripcion">
+Si deseas obtener más información acude a nuestras oficinas.
+Nos encontrará en calle Alberic, 18, 46008 València, Valencia    
+    </pre>
+    
+    <div id="helpdesk">
+        <p>Helpdesk 24 horas</p>
+        <img src="helpdesk.jpeg" height=50px>
+    </div>
+    <div id="mapa">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.0619468095447!2d-0.3899127427796427!3d39.46792923063904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd604f46da4855e1%3A0x9c6c795bc92d164e!2sAbastos!5e0!3m2!1sen!2ses!4v1542717777070" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<footer id="footer">Copyright © Abastos Developers - 2015 Practicando html</footer>
+</body>
+</html>

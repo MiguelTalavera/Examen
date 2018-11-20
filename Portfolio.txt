@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+        <link rel="stylesheet" type="text/css" href="IndexCSS.css">
+</head>
+<body>
+   <a href="Index.html"><img src="marca.png" alt="logotipo" a href="Index.html"></a>
+    <br>
+    <div>
+    <header>
+    
+    <a id="uno" href="Index.html">Nosotros</a>
+    <a id="dos" href="DondeEstamos.html">Donde estamos</a>
+    <a id="tres" href="Portfolio.html">Portfolio</a>
+    <a id="cuatro" href="RedesSociales.html">Redes sociales</a>
+    </header>
+    </div>
+    <br>
+    <hr>
+    
+    <pre id="descripcion">Nuestros ultimos desarrollos</pre>
+    
+    <div id="helpdesk">
+        <p>Helpdesk 24 horas</p>
+        <img src="helpdesk.jpeg" height=50px>
+    </div>
+    <div>
+<iframe id="cafe" src="Practica7/Index2.html" height="450" width="600" border: aria-atomic="true" align="center"></iframe>
+<br><br><br><br>
+<hr>
+<br>
+<iframe  id="PerfilProfesional" src="PerfilProfesional/Index3.html" height="450" width="1500" border: aria-atomic="true" align="center"></iframe>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<footer id="footer">Copyright © Abastos Developers - 2015 Practicando HTML</footer>
+</body>
+</html>
